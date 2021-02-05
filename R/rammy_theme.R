@@ -14,4 +14,3 @@ rammy_theme <- function() {
     axis.title = element_text(colour = "tomato4")
   )
 }
-
